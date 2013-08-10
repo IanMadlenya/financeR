@@ -1,0 +1,14 @@
+Package: financeR
+Type: Package
+Title: Financial Engineering with R
+Version: 0.1-0
+Date: 2013-08-10
+Author: Ronald Hochreiter <ron@hochreiter.net>
+Maintainer: Ronald Hochreiter <ron@hochreiter.net>
+Description: Financial Engineering with R - Support Package
+Depends:
+  R (>= 2.15)
+Imports:
+  xts
+License: GPL-3
+URL: http://www.finance-r.com/

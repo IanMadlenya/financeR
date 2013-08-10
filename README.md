@@ -1,4 +1,3 @@
-financeR
-========
+### financeR
 
-Financial Engineering with R
+Financial Engineering with R @ finance-r.com
